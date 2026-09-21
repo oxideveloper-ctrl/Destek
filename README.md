@@ -1,2 +1,2 @@
 # Destek
-Destek
+Teşekkürler
